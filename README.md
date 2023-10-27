@@ -1,2 +1,3 @@
 # BrownAle-
-How to make an perfect American Brown Ale
+How to make an perfect American Brown Ale  
+OG: 1.057 (14.2° P), Bitterness: 59.4 IBUs, ABV: 5.8 %

@@ -10,3 +10,5 @@
 * 40.0 g	Cascade [8.2%] - Boil 10  
 * 40.0 g	Cascade [8.2%] - Steep 0 mi  
 * 50.0 g	Centennial [9.6%] - Dry Hop 0 days
+* # Yeast
+* 1.0 pkgs	Safale American (DCL/Fermentis #US-05)

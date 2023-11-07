@@ -19,7 +19,7 @@ When the temperature is about 25 degrees Celsius, transfer the wort to a clean a
 
 Add the yeast into the vessel and shake the container vigorously for good aeration,  
 then let it stay in room temperature, about 20 C for 7-10 days.  
-When fermentation is complete, add hops for dry hopping and wait another 2 to 4 days.
+When fermentation is complete, add 50.0 g Centennial for dry hopping and wait another 2 to 4 days.
 
 Now transfer the beer to the keg, add Co2 and let it clear.
  

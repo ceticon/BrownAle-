@@ -9,7 +9,7 @@ When rinsing is complete, increase temperature so it starts to boil.
 
 ## Wort boiling  
 * 0 min. Add 25 gram of Northern Brower and let boil for 60 min.
-* 45 min. Add 25 gram of Northern Brower and let boil for 15 min.  
+* 45 min. Add 20 gram of Northern Brower and let boil for 15 min.  
 Place the clean chiller in the worth about 15 minutes before the boil is done.  
 * 50 min. Add 40 g Cascade and boil for 10 min.  
 * 60 min. - Flame Out. Add 40 g Cascade when start cooling.
